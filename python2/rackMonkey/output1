@@ -1,0 +1,598 @@
+id	name	notes
+6	hermes	old kevin
+8	shelf r12-u2	
+9	blaise	
+10	muses2	
+11	shelf r12-u16	
+12	blaise Storage	
+23	cyclades1	
+24	shelf r1-u1	
+25	pascal	
+26	mersenne	
+27	Mys	
+28	Louis	
+42	pierre2	
+44	oldmuses	
+47	sun r09	
+54	research3	IP: 155.52.48.94
+55	shelf r19-u11	
+56	shelf r19-u15	
+57	self r19-u22	
+58	shelf r19-u31	
+59	shelf r19-u34	
+60	biacs	IP: 155.52.48.152\nstaffed for Lynda Chin Lab
+61	rescomp3	155.52.48.149\narch:X86_64
+62	research4	IP: 155.52.48.95\narchitecture:X86_64
+63	childhoodcancergrid	
+64	abl1	155.52.48.98\nBelongs to Clinical Research -- contact Hailu or Ameet
+98	d21burlington3s4-g-v639	Inst. funds
+108	cbr4-blade06	Inst FundsDell Blades within Enclosure;Dell PowerEdge 1855 \n1)cbprod1 ss#30VL4D1  Inst   role: DB Server \n2)cbprod2 ss#63VL4D1  Inst   role: DB Server\n3)cbvm3   ss#6YTL4D1  Inst   role: VM HyperVisor Serv\n4)cbvm2   ss#D4VL4D1  Inst   role: VM HyperVisor Serv\n5)cbga1   ss#1T2N4D1  Inst   role: DB Server\n6)cbhi7da2 ss#95F31F1 Grant  role: App Server\n7)cbvm1    ss#5T6L4D1 Inst   role: App Server\n8)bioldap1 ss#5LM0ZC1 Inst   role: General Server\n9)cbias1   ss#5M6L4D1 Inst   role: App Server\n10)cbnms   ss#BH6L4D1 Inst   role: General Server
+109	cbr4-blade05	Inst funds\nDell Blades within Enclosure;Dell PowerEdge 1855 \n1)curie ss#45F31F1    Grant    role: App Server\n2)cbhl7pd2 ss#7D5W1F1 Grant\n3)cbhl7pa1 ss#B5F31F1 Grant    \n4)cbhl7pa2 ss#97NZZD1 Grant\n5)cbhl7dd1 ss#65F31F1 Grant     role: DB Server\n6)cbhl7da1 ss#87NZZD1 Grant     role: App Server\n7)tgidb1   ss#26F31F1 Inst      role: DB Server\n8)tgidb2   ss#J5F31F1 Inst      role: DB Server\n9)marraydb1 ss#46F31F1 Inst     role: DB Server\n10)marraydb2 ss#F5F31F1 Inst    role: DB Server
+110	drc15	
+111	telsa	Grant Funds
+112	cbiasdev	
+113	cbmonitor	
+114	cbsan2	
+115	cblb1	
+116	bsan1-4	
+117	bsan1-3	
+118	bsan1-2	
+119	bsan1	
+120	cb-net-sw1	
+121	cbnap-2-2	Inst Fund
+122	cbnap-2-1	Inst Funds
+123	cbnap-1-3	Inst Funds
+124	cbnap-1-2	Inst Funds
+125	cbnap-1-1	Inst Funds
+126	cbnap1	Inst Funds
+128	web1	Rack 01 - cbr1-blade01 enclosure(10)
+129	umbrella-n08	Rack 01 - cbr1-blade01 enclosure(9)
+130	umbrella-n07	Rack 01 - cbr1-blade01 enclosure(8)
+131	umbrella-n06	Rack 01 - cbr1-blade01 enclosure(7)
+132	umbrella-n05	Rack 01 - cbr1-blade01 enclosure(6)
+133	umbrella-n04	Rack 01 - cbr1-blade01 enclosure(5)
+134	umbrella-n03	Rack 01 - cbr1-blade01 enclosure(4)
+135	umbrella-n02	Rack 01 - cbr1-blade01 enclosure(3)
+136	umbrella-n01	Rack 01 - cbr1-blade01 enclosure(2)
+137	umbrella-n00	Rack 01 - cbr1-blade01 enclosure(1)
+138	OldMys (& older ray not in use)	
+156	rc-stor3	GigE: 172.24.216.247
+158	jbod for rc-stor3	
+161	prometheus	
+162	cronus	
+163	mnemosyne	
+164	no label r32-p39	
+169	comm-dept	
+171	lrocpinestar	
+173	bfiparc	
+208	sphinx - new	
+210	lance	Service Exp:
+212	turing	virtual - hydra
+216	console switch 155.52.47.23	
+218	console switch 155.52.47.21	
+237	charlie	
+238	cancors	
+239	Dell Console Switch	
+240	switch r13-p42	
+245	shelf r44-p8	
+247	tmaj1	RC-backup: linux1
+248	tmaj2	RC-backup: linux1
+252	promoter	IP: 155.52.48.56\nLynda Chin Lab
+253	railsprod	IP: 155.52.48.65
+269	rescomp1	
+273	cen2	
+274	laplace (bayesm)	
+276	begonia3-dovecot	
+277	greece not online	
+278	begonia1 daffodilrm	
+289	transcore2	
+290	rcbig1 155.52.10.49 - offline 11/2/2017	IP: 155.52.48.186
+295	shelf r28-p28	
+297	dell r28-p29	
+301	network rack UPS	
+302	d21BURLINGTON3s1	
+304	ceragon fiber 1500	
+306	Corning Landscape	24ST SM Fiber to OS335
+307	Module 9 - d21BURLINGTON3s1	
+308	Module 8 - d21BURLINGTON3s1	
+309	Module 7 - d21BURLINGTON3s1	
+310	Module 6 - d21BURLINGTON3s1	
+311	Module 4 - d21BURLINGTON3s1	
+312	Module 3 - d21BURLINGTON3s1	
+313	pp10	
+314	pp9	
+315	cable rail r25-p27	
+316	pp8	
+337	server r23-p1	
+338	Mac r23-p15	
+339	shelf r23-p16	
+340	console r23-p17	
+341	mac r23-p30	
+342	shelf r23-p31	
+343	mac r23-p33 (actual 10U)	non-conforming shares shelf
+345	mac r23-p38 (actual 10U)	
+348	bali	
+349	RCAPPS5	
+350	cebu	
+351	dome	
+352	greenland1	
+353	greenland2	
+356	RCDB3	
+357	San Controler	
+358	weston	
+359	shelf r37-r22	
+360	cebu2	
+361	san switch 2	
+362	SATA2	
+363	fiji	
+366	iona	
+367	bali2	
+369	lanai	
+370	easter	
+371	maui	
+372	north	processor tags:DFI-F000832 \n               DFI-F000833
+373	console r38-p16	
+376	Network reserved r26-p5	
+377	pp7	
+378	cable rail r25-p31	
+379	pp6	
+380	pp5	
+381	pp1	
+382	pp2	
+383	reserved Network Engineering r25-p43	
+384	cable rail r25-p35	
+385	cable rail r25-p39	
+386	pp3	
+387	pp4	
+388	reserved Network Engineering r25-p1	
+389	reserved Network Engineering r25-p16	
+408	F5 - switch	
+409	Netapp  Biostat Lab r5-p25	
+410	reserved Biostat Lab r5-p1	
+412	ULTRA!) - old tag Helios	
+413	AlterPath-22	
+417	reserved Biostat	
+418	reserved Biostat r13-p37	
+419	euler	
+428	husker	Service Exp: 2013-Aug-13
+436	reserved CCSB r42-p41	
+448	Sanbox 5600 r5-U42	PO# 0000396400
+449	Sanbox r5-u41	PO#0000396400
+450	dfhccweb	
+451	OLD-ecogfiler/Sun Storage 7110	
+452	ecog1	
+453	ecog2	
+454	ecog3/neptune	
+455	ecog4	
+456	oldecog5	
+457	railsdev	IP: 155.52.48.58
+459	self r15-1p	
+460	RD2	155.52.48.192
+461	Thinkmate Supermicro	Blade Enclosure \nBlade 1\nBlade 2\nBlade 3\nBlade 4\nBlade 5\nBlade 6\nBlade 7\nBlade 8\nBlade 9\nBlade 10
+462	Thinkmate Supermicro Blades	Blade Enclosure (1-10)\n 1\n 2\n 3\n 4\n 5 \n 6\n 7\n 8\n 9\n10
+466	Power supplies (R43-17)	
+467	Cyclades (r16-42	
+468	Dell Power Connect (r16-41)	
+469	BRCA	Brca1-20 work nodes\nDQFHRL1 29896314085 (17-20)  c6100 cloud edge\nDQCMRL1 29891508517\nDQCLRL1 29891461861\nbrca21-24:\n5MFSLS1  c6100 \nDQCGRL1 29891228581 (5-8)\nDQCKRL1 29891415205 (1-4)
+470	XS23 (r16-22)	
+471	XS23 (R16-19	
+472	Air Flow space  (r16-21)	
+473	XS23 (r16-16)	
+474	Air Flow space (r16-18)	
+475	Air Flow space (r16-15)	
+476	XS23 (r16-13)	
+477	brca0	
+478	PowerVault MD1200 (r16-8)	
+479	PowerVault MD1200 (r16-6)	
+480	PowerVault MD1200 (r16-4)	
+481	PowerVault MD1200 (r16-2)	
+482	Air Flow space (r16-12)	
+483	Jaws	
+486	gauss	Service Exp:
+487	VIRT-BACK	Customers:\nBiostatistics & Computational Biology
+488	virt3	
+489	mars	
+490	SunFire X2100 (r17-30) - NOT USED	
+491	sunf1	
+492	sunf2	
+493	switch r09-p19	
+494	fex104	
+495	cortex.dfci.harvard.edu	This is the Tonido file cloud pilot server.
+496	rc-maestro-01	
+497	rc-maestro-02	
+498	rc-maestro-store-01	
+499	rc-repo	
+500	rc-katello	Owner: Justin St. Marie
+501	S6	
+502	glu2 - temp	Owner: Ben Wang
+503	glu2 (of 2) - temp	Owner: Ben Wang
+504	cardinal	Owner: Ben Wang
+505	S10	
+506	S11	
+507	S12	
+508	S13	
+509	S14	
+510	S15	
+511	S16	
+512	S17	
+513	S19	
+514	S20	
+515	S21	
+516	S22	
+517	S23	
+518	S24	
+519	S25	
+520	S26	
+521	Switch r09 (B)-p20	
+522	Switch R09 (B) -p19	
+523	S27	
+524	S28	
+525	S29	
+526	S30	
+527	S31	
+529	Pierre2-bay	
+530	Helo	Service Exp: 2014-Aug-12\nBCB print server
+532	dv-host-sprx1.dfci.harvard.edu 155.52.48.86	
+533	demo-sprx-host.dfci.harvard.edu 155.52.48.189	
+534	dhcp-155-52-48-196.dfci.harvard.edu	
+535	shelf r15-p14	
+536	sparks-vmhost-174.partners.org 172.24.215.174	
+537	sparks-vmhost-173.partners.org 172.24.215.173	
+538	pd-oncdrs-as2.dfci.harvard.edu 172.24.215.102	
+540	cen10 canevolve	
+541	ocmt2	
+543	ocmt1	
+544	libra	
+545	pisces	
+546	VIRT1	Customers:\nBiostatistics & Computational Biology\nvm: ecog5
+547	santiam	Service Exp: 2013-Sept-24
+548	Old daisy	
+549	daisy disk	Service Exp: 2013-Sept-14
+550	rcisi-1	
+551	rcisi-2	
+552	rcisi-3	
+553	Isilon IQ Accel r32-p13	
+554	ifiniband switch r32-p14	
+556	temporal-001	
+559	JBOD for rc-stor4	
+560	shelf r36-p15	
+561	rescomp2	
+569	UPS r25-p3	
+570	d21Burlington3s5	
+571	fex105	
+573	fex101	
+574	fex102	Biostatistic Subnet 172.24.216.0/24
+575	fex103	Research Subnet  172.24.215.0/24
+576	vsphere001	
+577	rcvmdk1	nfs server vmware host
+578	rchpc prime	Jay removed - 12/04
+579	Melanox r23-u42	
+582	bali2	
+583	cebu2	
+591	Thinkmate Supermicro r31-p20	
+592	pa-tmp	
+593	UMBR-S03	
+594	UMBR-S02	
+595	UMBR-S01	
+596	UMBR-S00	
+599	Silicon Mechanics	
+600	CBMYSQL	
+601	CBDB1	
+602	CBDB2	
+603	CBESX03	
+604	CBESX04	
+605	CBESX05	
+607	CCBHD00	
+608	CCBHD01	
+609	CCBHD02	
+610	CCBHD03	
+611	CCBHD04	
+615	Storage BCBL r5-p28	
+616	Storage BCBL r5-p31	
+617	Storage BCBL r5-p34	
+618	Storage BCBL r5-p35	
+619	bcbl r5-p37	
+629	melanox 5030 - r15-p42	
+631	r09A-p21	
+632	r09B-p38	
+633	r09B-p1	
+635	r15-p13	
+636	r24-p1	
+637	monet	
+638	old cancors	
+641	Thinkmate r39-p6	
+644	rcisi-5	
+645	rcisi-6	
+646	rcisi-7	
+647	rcisi-8	
+648	rcisi-10	
+649	rcisi-9	
+654	r09B-p20	
+655	r25-p5	
+656	r25-p9	
+657	r26-p21	
+658	r26-p35	
+659	r26-p33	
+660	r18-p17	
+661	jupiter	service gold 9/1/2014
+662	r18-p14	
+664	r19-p1	
+665	Rcapps	
+666	G4	
+670	taurus filer3	
+671	taurus filer2	
+672	taurus filer1	
+673	taurus	
+674	filert	
+675	VIRT	Customers:\nBiostatistics & Computational Biology
+676	Shelf 2 -PowerVault MD1200	
+678	orion	
+679	Shelf 1 - PowerVault MD1200 R20-p28	
+680	napier	
+681	sidney	
+684	pascalplus	Service Exp: 2015-JULY-8
+686	riemann	
+687	daisy disk1	Service Exp: 2014-Aug-03
+688	daisy disk2	Service Exp: 2015-Nov-08
+689	charles	
+690	MD3060e r22-p1	
+691	cen1	
+692	voltaire switch r23-p40	
+693	rcvmdk2	
+694	thinkmate supermicro r23-p9	
+695	thinkmate supermicro r23-p12	
+696	melanox	
+697	thinkmate supermicro r23-p25	
+698	thinkmate supermicro r23-p27	
+699	thinkmate supermicro r23-p31	Lynda Chin cluster shelf-Belfer medical oncology
+700	thinkmate supermicro r23-p35	
+701	dell switch - r23-p33	
+702	thinkmate supermicro r23-p29	
+703	qlogic switch r32-p36	
+705	thinkmate supermicro r31-p39	
+706	rcisi-11 - JQ	Biostatistics & Computational Biology Lag - grant purchase\nSystem configuration#812-0001-02
+709	melanox switch r31-p19	
+711	2 Pegasus r28-p33	
+712	IBM server r28-p42	
+713	IBM server r28-p41	
+714	Dell server r28-p38	
+715	gloucester	
+716	cheshire	
+717	telsa r36-p1	
+718	telsa r36-p2	
+719	LABEL - thinkmate r36-p3	
+720	thinkmate r36-p5	
+723	ccgd-stor1-R	
+724	rcwp (proxy)	
+725	dfcicommesx1	
+726	thinkmate r39-p42	
+727	ccgd	
+728	ccgd-dev	
+729	melanox switch r41-p33	
+730	GF2 2R	
+731	rc-stor7 jbod	
+732	rc-stor7	GigE: 172.24.220.75
+733	Thinkmate r41-p9	
+735	Gf2-2	
+736	Gf2-1	
+740	(hp proliant r43-p20) new paros?	PO#0000765375
+741	gf2-3R	
+742	gf2-3	
+743	jbod rc-stor8	
+744	rc-stor8	GigE: 172.24.220.54
+745	RESSRV19 EXP	
+746	RESSRV19	
+747	rcchrisphp?	
+748	leo	
+751	aberdeen storage r17-p06	Customers:\nBiostatistics & Computational Biology - Research Computing
+752	aberdeen storage S7	Customers:\nBiostatistics & Computational Biology - Research Computing
+753	aberdeen storage r33-p10	Customers:\nBiostatistics & Computational Biology - Research Computing
+754	aberdeen storage r33-p15	Customers:\nBiostatistics & Computational Biology - Research Computing
+755	aberdeen server r33-p19	Customers:\nBiostatistics & Computational Biology - Research Computing
+756	aberdeen server r33-p24	Customers:\nBiostatistics & Computational Biology - Research Computing
+757	aberdeen server r33-p28	Customers:\nBiostatistics & Computational Biology - Research Computing
+758	aberdeen server r33-p33	Customers:\nBiostatistics & Computational Biology - Research Computing
+759	ada	
+760	aberdeen storage r33-p1	
+761	sunf3	
+763	CFCE-1	
+764	CFCE-2	
+765	PROFILESTOR1-R (exp)	
+766	PROFILERSTOR1-R (base)	
+767	rc-kace Dell Kace K1100S	
+768	supermicro blade center r40-p2	
+769	jbod for rc-stor1	
+770	rc-stor1	gigE: eth3: 172.24.222.196
+771	rc-mirror1 -	GigE: 172.24.222.203
+772	Dell R720 r17-p18	
+773	newton	
+774	gaia	
+775	temporal002.dfci.harvard.edu 172.24.215.181	
+776	thinkmate r15-p27	
+777	thinkmate r15-p28	
+778	thinkmate 172.24.220.94	
+779	thinkmate 172.24.220.88	
+780	noah	
+781	ealcd	
+782	CCCBPN	
+783	avocent DSR2035 r02-p41	
+785	dell switch - r1-p42	
+786	melanox switch IS5030  r02-p42	
+787	NETGEAR GS524T - switch R2-P38	
+788	avocent DSR1030 r04-p30	
+789	bnas1	
+790	thinkmate r23_p14	
+834	rc-admin01	
+835	shelf r35-p15	
+841	procurve switch	
+842	melanox switch 5030  r43-p42	
+843	HP storage - r6-p1	
+844	HP Proliant r6-p3	
+845	blade enclosure r6-p6	
+846	Overland storage r6-p16	
+847	Dell Power connect r6-p42	
+848	PowerConnect r6-p40	
+849	DS14MK2	
+850	Dell R410 r6-p20	
+851	Dell R620 r6-p21	
+854	Dell R620 r6-p24	
+855	greece1	Customers:\nBiostatistics & Computational Biology - Research Computing
+856	homesA	Customers:\nBiostatistics & Computational Biology
+857	Thinkmate r17p1	Customers:\nBiostatistics & Computational Biology
+858	Daisy (crocus)	Customers:\nBiostatistics & Computational Biology
+860	xome	
+861	rc-stor4	GigE: 172.24.216.246
+862	rcapps2	
+863	rc-stor6	GigE: 172.24.216.244
+864	jbod for rc-stor6 r40-p26	
+866	rcsgcs01	
+867	jbod for rc-mirror1	GigE: 172.24.222.203
+868	virt-tmp	
+869	eadbms sql-win	
+870	arcem - window server	
+871	homesb	
+872	Qualstar RLS8500	
+873	muses	
+874	concole switch - r13-p38	
+875	console switch r19-p33	
+876	Fiber Panduit	
+877	JBOD r30-p1	
+879	HCCWEB-V1	
+880	thinkmate r38p40	
+881	jbod for ccgd-stor-R	
+882	ccgd-stor1	
+883	jbod for ccgd-stor1	
+884	jbod for rc-stor5 r37-p17	
+885	rc-stor5	GigE: 172.24.216.94
+886	switch r35-p42	
+887	rc-stor9	GigE:   172.24.216.250
+888	Profilestor-1  jbod r36-p22	
+889	profilestor-1	
+890	rc-stor2 jbod r36-p30	
+891	rc-stor2	GigE: 172.24.216.241
+892	rc-repo	
+893	rc-vmlocal	
+894	CBioPortal  172.24.216.72	
+895	shelf r44-p1	
+896	Arista 7010t-48 switch	
+897	Dell Switch	IP subnet 172.24.224.
+898	Shelf r39 p36	
+899	Infiniband switch	
+901	jbod rc-stor9	
+902	RCBC4	PO 0000842742
+904	barracuda-primary	FEX101 port 37\nFEX102 port 6\n    WAN - \n    LAN - 172.24.220.14
+905	rc-stor10-jbod u8	
+906	rc-stor10-jbod u12	PO 0000892110
+907	rc-stor10	po:000871244\nGigE: 172.24.220.187
+908	rc-stor11	po:000871244\nGigE:  172.24.220.184
+909	MGMTSwitch R01 U42	
+911	UPS - APC5000	
+912	Network Eng - switch	
+913	qlogic switch p41	
+914	Qlogic switch p40	
+915	thinkmate p38	
+916	thinkmate p36	
+917	Thinkmate p32	
+918	Thinkmate p28	
+919	XMF manager	
+920	shelf p7	
+921	APC UPS Network Engineering	
+922	andromeda	
+923	pixie - gpu server Biostat	grant asset
+924	JBOD bio1	
+925	JBOD Bio2	
+926	rc-stor11 u22	
+927	rc-stor11-jbod u18	
+928	Cisco	
+929	rc-gpus	PO:0000873455  PP18#24 FEX101#31
+930	Baracuda secondary	P.O. 0000892071\n155.52.220.13 - lan port
+931	vmhost1	po: 000869157
+933	thinkmate supermicro P1	po:0000873431
+934	thinkmater supermicri p5	PO:000873431
+936	rc-stor1-r (rc-data1?)	
+937	thinkmate r1p26	
+938	RC-DATA2	
+939	thinkmate	
+940	Intel Gateway	
+941	Intel storage1	
+942	Intel Storage2	
+943	MDT-0-0	
+944	MDS-0-0	
+945	OSS-0-0	
+946	OSS-0-1	
+947	Compute-0-4 0-5 0-6 0-7	
+948	Compute-0-0 0-1 0-2 0-3	
+949	Compute-0-8	
+950	Compute-0-9	
+951	Compute-0-10	
+952	Compute-0-11	
+953	MDT-0-1	
+954	Intel Application-01	
+955	Intel Xeon Processor - Rack4	
+956	thinkmate r39p25	purchase order:0000908604\nJustin - IPMI jumpbox
+957	rc-jump1	purchase order:0000908604
+958	rcdb2	po# 0000919534 MODEL rax-xs8-2260v3-10g
+959	RCDB1	po# 0000919534 MODEL rax-xs8-2260v3-10g
+960	ARF-HYPER01	IP - 172.24.220.178
+961	rcmirror2	PO - 0000908538
+962	rc-stor13	
+963	rc-staging1	po 0000926278
+964	rc-stor12	p0 0000905677
+965	rcwbap2	po 0000930960
+966	rcwbap1	po 0000930960
+967	rc-proteomics	
+969	new - rack10	
+970	grant - 2016	
+971	lynx	
+972	netap -2	PO 103301411942
+973	netapp -1	PO 103301411941
+974	RCAPPS4	
+975	Thinkmate r44u11	
+976	rc-storhousesm01	
+977	RC-STOR14	
+978	Thinkmate r31u1	
+979	rcstorhouserfs01	
+980	rcisi-12	System configuration#812-0001-02
+981	vmhost2	
+982	working	
+983	homesc	
+984	thinkmate disk array	
+985	virgo	
+986	newest daisy shelf	
+987	vmhost3	
+988	vnhost4	
+989	virtz3	
+991	networkservices_1	PO 0000976798 customer id 01-0000935\nFEX151 - 14 (15/16?) 172.24.220
+992	networkservices_2	PO 0000976797\nFEX151 - 13 (15/16?) 172.24.220
+993	thinkmate - m1	PO 0000981419
+994	thinkmate m2	PO 0000981419
+995	thinkmate m3	PO 0000981419
+996	encrypt-1	PO 0000978766
+997	encrypt-2	PO 0000978766
+998	thinkmate - new	po 0000978766
+1000	AVP Serv3	
+1001	AVP Serv4	
+1002	OVAPP01	
+1003	md1200 r7p35	
+1004	md1200 r7p33	
+1005	BBZFS1A	
+1006	CBZFS1B	
+1007	md1200 r7p27	
+1008	md1200 r7p25	
+1009	SRDELL	PO 0001019213\nIP - 172.24.216.15\n172.24.206.65 - lyra-sp
+1010	mys-new June 2017	
+1011	pyxis	
+1012	rcbc5	PO 0001024572
+1013	rc-wp2	PO 0001022011
+1014	rc-wp1	PO 0001022011
+1015	new R12-U1	PO:0001036829
+1016	new R12-U5	PO:0001041610
+1017	new R12-U19	PO 0001036781 - Medical Onc. Alberto Jaramillo
+1018	Synology 12bay	PO 0001048794
+1019	dell - r16/u20	
+1020	dell - r16/u21	
+1021	Pedonc -u1	
+1022	Pedonc -u6	
+1023	blank - r28u5	
+1024	Pedonc - U10	
+1025	Pedonc -u14	

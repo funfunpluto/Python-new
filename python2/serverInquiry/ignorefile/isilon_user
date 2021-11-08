@@ -1,0 +1,1916 @@
+User:	aa753
+Uid:	1027
+Gid:	26570(aa753)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3054
+Shell:	/bin/bash
+Gecos:	Amanda Abbott (aklab)
+Home:	/ifs/home/aa753
+Groups:	26570(aa753), 24650(aklab)
+
+User:	aag23
+Uid:	30504
+Gid:	30504(aag23)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-62008
+Shell:	/bin/bash
+Gecos:	Alexander_Gimelbrant
+Home:	/ifs/home/aag23
+Groups:	30504(aag23), 63729(glab), 63726(ase)
+
+User:	af661
+Uid:	37068
+Gid:	37068(af661)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-75136
+Shell:	/bin/bash
+Gecos:	Alexander_Federation
+Home:	/ifs/home/af661
+Groups:	37068(af661), 119545(bradnerlab)
+
+User:	ah654
+Uid:	34334
+Gid:	34334(ah654)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-69668
+Shell:	/bin/bash
+Gecos:	Alex_Holman
+Home:	/ifs/home/ah654
+Groups:	34334(ah654), 63728(ccsb)
+
+User:	ak104
+Uid:	29839
+Gid:	29839(ak104)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-60678
+Shell:	/bin/bash
+Gecos:	Alex_Kentsis
+Home:	/ifs/home/ak104
+Groups:	29839(ak104)
+
+User:	ak32
+Uid:	12550
+Gid:	12550(ak32)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-26100
+Shell:	/bin/sh
+Gecos:	Andrew Kung
+Home:	/ifs/home/ak32
+Groups:	12550(ak32), 33923(akdirect), 24650(aklab)
+
+User:	ak628
+Uid:	36115
+Gid:	36115(ak628)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-73230
+Shell:	/bin/bash
+Gecos:	Andrei_Kristov
+Home:	/ifs/home/ak628
+Groups:	36115(ak628), 12550(ak32), 63730(pedonc)
+
+User:	akmriadm
+Uid:	1008
+Gid:	5000(akmriadm)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3016
+Shell:	/bin/bash
+Gecos:	AKLab MRI
+Home:	/ifs/home/akmri
+Groups:	5000(akmriadm), 1013(akmri_users), 24650(aklab)
+
+User:	al575
+Uid:	71702
+Gid:	71702(al575)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-144404
+Shell:	/bin/bash
+Gecos:	Allegra_Lord
+Home:	/ifs/home/al575
+Groups:	71702(al575)
+
+User:	alc66
+Uid:	33877
+Gid:	33877(alc66)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-68754
+Shell:	/bin/sh
+Gecos:	Amanda Christie
+Home:	/ifs/home/alc66
+Groups:	33877(alc66), 24650(aklab)
+
+User:	am20
+Uid:	36941
+Gid:	36941(am20)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-74882
+Shell:	/bin/bash
+Gecos:	Adri_Mills
+Home:	/ifs/home/am20
+Groups:	36941(am20), 1005(ccgd)
+
+User:	amaisonet
+Uid:	28056
+Gid:	28056(amaisonet)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-57112
+Shell:	/bin/bash
+Gecos:	Adalis Maisonet (macf)
+Home:	/ifs/labs/macf/home/amaisonet
+Groups:	28056(amaisonet), 32291(macf)
+
+User:	an855
+Uid:	35350
+Gid:	35350(an855)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-71700
+Shell:	/bin/bash
+Gecos:	Anwesha_Nag
+Home:	/ifs/home/an855
+Groups:	35350(an855), 63729(glab), 63726(ase)
+
+User:	annie
+Uid:	24739
+Gid:	24739(annie)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-50478
+Shell:	/bin/bash
+Gecos:	Annie_Ng
+Home:	/ifs/home/annie
+Groups:	24739(annie), 1111(cccb)
+
+User:	annie4
+Uid:	100104
+Gid:	100104(annie4)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-201208
+Shell:	/bin/bash
+Gecos:	Annie_Ng
+Home:	/ifs/home/annie4
+Groups:	100104(annie4)
+
+User:	annie7
+Uid:	100107
+Gid:	100107(annie7)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-201214
+Shell:	/bin/bash
+Gecos:	Annie_Ng
+Home:	/ifs/home/annie7
+Groups:	100107(annie7)
+
+User:	annie8
+Uid:	100108
+Gid:	100108(annie8)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-201216
+Shell:	/bin/bash
+Gecos:	Annie_Ng
+Home:	/ifs/home/annie8
+Groups:	100108(annie8)
+
+User:	annie9
+Uid:	100109
+Gid:	100109(annie9)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-201218
+Shell:	/bin/bash
+Gecos:	Annie_Ng
+Home:	/ifs/home/annie9
+Groups:	100109(annie9)
+
+User:	ao17
+Uid:	29836
+Gid:	29836(ao17)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-60672
+Shell:	/bin/bash
+Gecos:	Allison ONeill (aklab)
+Home:	/ifs/home/ao17
+Groups:	29836(ao17), 24650(aklab)
+
+User:	as195
+Uid:	33533
+Gid:	33533(as195)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-68066
+Shell:	/bin/sh
+Gecos:	Amy Saur
+Home:	/ifs/home/as195
+Groups:	33533(as195), 24650(aklab)
+
+User:	as301
+Uid:	29394
+Gid:	29394(as301)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-59788
+Shell:	/bin/bash
+Gecos:	Amit_Sinha
+Home:	/ifs/home/as301
+Groups:	29394(as301)
+
+User:	asb62
+Uid:	41975
+Gid:	41975(asb62)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-84950
+Shell:	/bin/sh
+Home:	/ifs/home/asb62
+Groups:	41975(asb62)
+
+User:	av2
+Uid:	1016
+Gid:	10878(av2)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3032
+Shell:	/bin/bash
+Gecos:	Annick Van Den Abbeele (aklab)
+Home:	/ifs/home/av2
+Groups:	10878(av2), 24650(aklab)
+
+User:	belfer
+Uid:	1006
+Gid:	1006(belfer)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3012
+Shell:	/bin/sh
+Home:	/ifs/home/belfer
+Groups:	1006(belfer)
+
+User:	biogenup
+Uid:	78999
+Gid:	2033(clcbio)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-158998
+Shell:	/bin/bash
+Gecos:	Biostat Comp Upload User
+Home:	/ifs/rcgroups/clcbio/biogenup1
+Groups:	2033(clcbio)
+
+User:	bjf20
+Uid:	90926
+Gid:	90926(bjf20)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-182852
+Shell:	/bin/bash
+Gecos:	Bernard_Fendler
+Home:	/ifs/home/bjf20
+Groups:	90926(bjf20), 63731(profile)
+
+User:	bk52
+Uid:	29835
+Gid:	29835(bk52)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-60670
+Shell:	/bin/sh
+Home:	/ifs/home/bk52
+Groups:	29835(bk52), 1029835(bknoechel)
+
+User:	bm69
+Uid:	33507
+Gid:	33507(bm69)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-68014
+Shell:	/bin/bash
+Gecos:	Brenton_Garrett_Mar
+Home:	/ifs/home/bm69
+Groups:	33507(bm69), 63730(pedonc), 88442(ebertlab)
+
+User:	bmw35
+Uid:	42622
+Gid:	42622(bmw35)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-86244
+Shell:	/bin/bash
+Gecos:	Bruce_Wollison
+Home:	/ifs/home/bmw35
+Groups:	42622(bmw35)
+
+User:	bpl9
+Uid:	42309
+Gid:	42309(bpl9)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-85618
+Shell:	/bin/bash
+Gecos:	Brian_Lawney
+Home:	/ifs/home/bpl9
+Groups:	42309(bpl9)
+
+User:	bt086
+Uid:	33288
+Gid:	33288(bt086)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-67576
+Shell:	/bin/bash
+Gecos:	Ben_Thompson
+Home:	/ifs/home/bt086
+Groups:	33288(bt086), 63729(glab), 63726(ase)
+
+User:	cb318
+Uid:	38874
+Gid:	38874(cb318)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-78748
+Shell:	/bin/bash
+Gecos:	Craig_Bielski
+Home:	/ifs/home/cb318
+Groups:	38874(cb318), 63728(ccsb)
+
+User:	ccgd
+Uid:	1005
+Gid:	1005(ccgd)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3010
+Shell:	/bin/bash
+Home:	/ifs/rcgroups/ccgd
+Groups:	1005(ccgd)
+
+User:	cchen
+Uid:	23089
+Gid:	23089(cchen)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-47178
+Shell:	/bin/bash
+Gecos:	Changzhong Chen (macf)
+Home:	/ifs/labs/macf/home/cchen
+Groups:	23089(cchen), 32291(macf)
+
+User:	cf916
+Uid:	25060
+Gid:	25060(cf916)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-51120
+Shell:	/bin/bash
+Gecos:	Changyu_Fan
+Home:	/ifs/home/cf916
+Groups:	25060(cf916), 63728(ccsb)
+
+User:	ch830
+Uid:	21798
+Gid:	21798(ch830)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-44596
+Shell:	/bin/bash
+Gecos:	Charles Hatton
+Home:	/ifs/home/ch830
+Groups:	21798(ch830), 1005(ccgd)
+
+User:	chc30
+Uid:	39769
+Gid:	39769(chc30)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-80538
+Shell:	/bin/bash
+Gecos:	ChenHao_Chen
+Home:	/ifs/home/chc30
+Groups:	39769(chc30), 63728(ccsb)
+
+User:	cj904
+Uid:	38388
+Gid:	38388(cj904)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-77776
+Shell:	/bin/bash
+Gecos:	Cailin_Joyce
+Home:	/ifs/home/cj904
+Groups:	38388(cj904), 58723(cnlab)
+
+User:	cjw24
+Uid:	34378
+Gid:	34378(cjw24)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-69756
+Shell:	/bin/sh
+Home:	/ifs/home/cjw24
+Groups:	34378(cjw24), 1006(belfer)
+
+User:	cl512
+Uid:	39580
+Gid:	39580(cl512)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-80160
+Shell:	/bin/bash
+Gecos:	Charles_Lin
+Home:	/ifs/home/cl512
+Groups:	39580(cl512)
+
+User:	cl925
+Uid:	90925
+Gid:	90925(cl925)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-182850
+Shell:	/bin/bash
+Gecos:	Chesley_Leslin
+Home:	/ifs/home/cl925
+Groups:	90925(cl925), 63731(profile), 1010(secreader)
+
+User:	clcbio
+Uid:	2033
+Gid:	2033(clcbio)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-5066
+Shell:	/bin/sh
+Home:	/ifs/rcgroups/clcbio
+Groups:	2033(clcbio)
+
+User:	cm682
+Uid:	21624
+Gid:	21624(cm682)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-44248
+Shell:	/bin/bash
+Gecos:	Cliff_Meyer
+Home:	/ifs/home/cm682
+Groups:	21624(cm682)
+
+User:	co917
+Uid:	35998
+Gid:	35998(co917)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-72996
+Shell:	/bin/bash
+Gecos:	Christopher_Ott
+Home:	/ifs/home/co917
+Groups:	35998(co917), 119545(bradnerlab)
+
+User:	cw638
+Uid:	40521
+Gid:	40521(cw638)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-82042
+Shell:	/bin/bash
+Gecos:	Chenfei_Wang
+Home:	/ifs/home/cw638
+Groups:	40521(cw638)
+
+User:	cx07
+Uid:	1007
+Gid:	34305(cx07)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3014
+Shell:	/bin/bash
+Gecos:	Chunxiao Xu (kwlab,akmri_users)
+Home:	/ifs/home/cx07
+Groups:	34305(cx07), 1015(kwlab), 1013(akmri_users)
+
+User:	cyc22
+Uid:	42994
+Gid:	42994(cyc22)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-86988
+Shell:	/bin/bash
+Gecos:	Chung-Yuan_Cheng
+Home:	/ifs/home/cyc22
+Groups:	42994(cyc22), 1111(cccb)
+
+User:	cz071
+Uid:	35016
+Gid:	35016(cz071)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-71032
+Shell:	/bin/bash
+Gecos:	Chongzhi_Zang
+Home:	/ifs/home/cz071
+Groups:	35016(cz071), 63728(ccsb)
+
+User:	db110
+Uid:	29834
+Gid:	29834(db110)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-60668
+Shell:	/bin/bash
+Gecos:	Daniel_Bauer
+Home:	/ifs/home/db110
+Groups:	29834(db110), 63727(bcb)
+
+User:	db400
+Uid:	1026
+Gid:	41845(db400)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3052
+Shell:	/bin/bash
+Gecos:	Dennis Bonal (aklab)
+Home:	/ifs/home/db400
+Groups:	41845(db400), 24650(aklab)
+
+User:	dc789
+Uid:	1033
+Gid:	36999(kj910)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3066
+Shell:	/bin/bash
+Gecos:	D'Ann Caron (aklab)
+Home:	/ifs/home/dc789
+Groups:	36999(kj910), 24650(aklab)
+
+User:	dh689
+Uid:	37687
+Gid:	37687(dh689)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-76374
+Shell:	/bin/bash
+Gecos:	Dustin_Holloway
+Home:	/ifs/home/dh689
+Groups:	37687(dh689), 2033(clcbio)
+
+User:	dw65
+Uid:	29080
+Gid:	29080(dw65)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-59160
+Shell:	/bin/bash
+Gecos:	DavidM_Weinstock
+Home:	/ifs/home/dw65
+Groups:	29080(dw65)
+
+User:	dy066
+Uid:	71820
+Gid:	71820(dy066)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-144640
+Shell:	/bin/bash
+Gecos:	David_Yudovich
+Home:	/ifs/home/dy066
+Groups:	71820(dy066), 88442(ebertlab)
+
+User:	eas77
+Uid:	43269
+Gid:	43269(eas77)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-87538
+Shell:	/bin/bash
+Gecos:	Eric_Severson
+Home:	/ifs/home/eas77
+Groups:	43269(eas77)
+
+User:	efox
+Uid:	12016
+Gid:	12016(efox)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-25032
+Shell:	/bin/bash
+Gecos:	Edward Fox (macf)
+Home:	/ifs/labs/macf/home/efox
+Groups:	12016(efox), 32291(macf)
+
+User:	eg804
+Uid:	71805
+Gid:	71805(eg804)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-144610
+Shell:	/bin/bash
+Gecos:	Elizabeth_Garcia
+Home:	/ifs/home/eg804
+Groups:	71805(eg804), 63731(profile)
+
+User:	em488
+Uid:	39018
+Gid:	39018(em488)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-79036
+Shell:	/bin/bash
+Gecos:	Eugenio_Marco
+Home:	/ifs/home/em488
+Groups:	39018(em488), 63727(bcb), 63726(ase)
+
+User:	ev090
+Uid:	1014
+Gid:	36288(ev090)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3028
+Shell:	/bin/bash
+Gecos:	Eileen Vo (aklab)
+Home:	/ifs/home/ev090
+Groups:	36288(ev090), 24650(aklab)
+
+User:	ew070
+Uid:	16728
+Gid:	16728(ew070)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-34456
+Shell:	/bin/bash
+Gecos:	Emily McDonagh
+Home:	/ifs/home/ew070
+Groups:	16728(ew070), 33923(akdirect), 24650(aklab)
+
+User:	fck
+Uid:	71801
+Gid:	71801(fck)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-144602
+Shell:	/bin/bash
+Gecos:	Frank_Kuo
+Home:	/ifs/home/fck
+Groups:	71801(fck), 63731(profile)
+
+User:	fv041
+Uid:	36165
+Gid:	36165(fv041)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-73330
+Shell:	/bin/sh
+Home:	/ifs/home/fv041
+Groups:	36165(fv041), 1200(cb)
+
+User:	ga943
+Uid:	35920
+Gid:	15482(PO_Stegmaier)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-72840
+Shell:	/bin/bash
+Gecos:	Alexe_Gabriela
+Home:	/ifs/home/ga943
+Groups:	15482(PO_Stegmaier)
+
+User:	gd075
+Uid:	1030
+Gid:	43063(gd075)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3060
+Shell:	/bin/bash
+Gecos:	Guanping Dai (aklab)
+Home:	/ifs/home/gd075
+Groups:	43063(gd075), 24650(aklab)
+
+User:	ggl1
+Uid:	1017
+Gid:	13105(ggl1)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3034
+Shell:	/bin/bash
+Gecos:	Greg LeFever (aklab)
+Home:	/ifs/home/ggl1
+Groups:	13105(ggl1), 24650(aklab)
+
+User:	gm765
+Uid:	40488
+Gid:	40488(gm765)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-81976
+Shell:	/bin/bash
+Gecos:	Graham_McVicker
+Home:	/ifs/home/gm765
+Groups:	40488(gm765)
+
+User:	goa
+Uid:	14027
+Gid:	14027(goa)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-29054
+Shell:	/bin/bash
+Gecos:	Guillaume Adelmant (martolab)
+Home:	/ifs/home/goa
+Groups:	14027(goa), 1009(martolab)
+
+User:	goodell
+Uid:	32842
+Gid:	32842(goodell)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-66684
+Shell:	/bin/sh
+Gecos:	Howie Goodell
+Home:	/ifs/home/goodell
+Groups:	32842(goodell), 1111(cccb)
+
+User:	gpuser
+Uid:	98961
+Gid:	98961(gpuser)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-198922
+Shell:	/bin/bash
+Gecos:	GP_User
+Home:	/ifs/home/gpuser
+Groups:	98961(gpuser)
+
+User:	gy025
+Uid:	26427
+Gid:	26427(gy025)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-53854
+Shell:	/bin/bash
+Gecos:	Guo-Cheng_Yuan
+Home:	/ifs/home/gy025
+Groups:	26427(gy025), 63727(bcb), 63726(ase)
+
+User:	hc890
+Uid:	35784
+Gid:	35784(hc890)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-72568
+Shell:	/bin/sh
+Home:	/ifs/home/hc890
+Groups:	35784(hc890), 1200(cb)
+
+User:	hh936
+Uid:	30256
+Gid:	30256(hh936)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-61512
+Shell:	/bin/bash
+Gecos:	Houshen_He
+Home:	/ifs/home/hh936
+Groups:	30256(hh936), 63728(ccsb)
+
+User:	hpc4u
+Uid:	100002
+Gid:	100002(hpc4u)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-201004
+Shell:	/bin/bash
+Gecos:	rchpc_pub
+Home:	/ifs/home/hpc4u
+Groups:	100002(hpc4u)
+
+User:	hpctest1
+Uid:	99876
+Gid:	99876(hpctest1)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-200752
+Shell:	/bin/bash
+Gecos:	HPC_Test
+Home:	/ifs/home/hpctest1
+Groups:	99876(hpctest1), 1200(cb)
+
+User:	hs778
+Uid:	39921
+Gid:	39921(hs778)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-80842
+Shell:	/bin/bash
+Gecos:	Heather_Selby
+Home:	/ifs/home/hs778
+Groups:	39921(hs778), 1111(cccb)
+
+User:	ht922
+Uid:	1032
+Gid:	44155(ht922)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3064
+Shell:	/bin/bash
+Gecos:	Hong Tiv (aklab)
+Home:	/ifs/home/ht922
+Groups:	44155(ht922), 24650(aklab)
+
+User:	hvi0
+Uid:	34954
+Gid:	34954(hvi0)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-70908
+Shell:	/bin/sh
+Gecos:	Haig Inguilizian
+Home:	/ifs/home/hvi0
+Groups:	34954(hvi0), 24650(aklab)
+
+User:	hx019
+Uid:	36248
+Gid:	36248(hx019)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-73496
+Shell:	/bin/bash
+Gecos:	Han_xu
+Home:	/ifs/home/hx019
+Groups:	36248(hx019), 59786(bcbg)
+
+User:	hz028
+Uid:	1028
+Gid:	21788(hz028)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3056
+Shell:	/bin/bash
+Gecos:	Hong Zhang
+Home:	/ifs/home/hz028
+Groups:	21788(hz028), 1010(secreader)
+
+User:	hz050
+Uid:	30093
+Gid:	30093(hz050)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-61186
+Shell:	/bin/sh
+Home:	/ifs/home/hz050
+Groups:	30093(hz050), 1006(belfer)
+
+User:	ja644
+Uid:	34452
+Gid:	34452(ja644)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-69904
+Shell:	/bin/sh
+Home:	/ifs/home/ja644
+Groups:	34452(ja644), 63729(glab), 63726(ase)
+
+User:	jct18
+Uid:	34319
+Gid:	34319(jct18)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-69638
+Shell:	/bin/sh
+Gecos:	Jen Chieh Tseng
+Home:	/ifs/home/jct18
+Groups:	34319(jct18), 24650(aklab)
+
+User:	jd474
+Uid:	29924
+Gid:	29924(jd474)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-60848
+Shell:	/bin/bash
+Gecos:	John_Dominy
+Home:	/ifs/home/jd474
+Groups:	29924(jd474), 1200(cb)
+
+User:	jdg3
+Uid:	2139
+Gid:	2139(jdg3)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-5278
+Shell:	/bin/sh
+Home:	/ifs/home/jdg3
+Groups:	2139(jdg3)
+
+User:	jf611
+Uid:	35147
+Gid:	35147(jf611)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-71294
+Shell:	/bin/bash
+Gecos:	Jason_Fink
+Home:	/ifs/home/jf611
+Groups:	35147(jf611)
+
+User:	jh129
+Uid:	42427
+Gid:	42427(jh129)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-85854
+Shell:	/bin/bash
+Gecos:	Johann_Hoeftberger
+Home:	/ifs/home/jh129
+Groups:	42427(jh129), 1005(ccgd)
+
+User:	jh522
+Uid:	35606
+Gid:	35606(jh522)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-72212
+Shell:	/bin/sh
+Home:	/ifs/home/jh522
+Groups:	35606(jh522), 1200(cb)
+
+User:	jhl36
+Uid:	36663
+Gid:	36663(jhl36)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-74326
+Shell:	/bin/sh
+Home:	/ifs/home/jhl36
+Groups:	36663(jhl36), 1200(cb)
+
+User:	jja15
+Uid:	33159
+Gid:	33159(jja15)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-67318
+Shell:	/bin/bash
+Gecos:	James_Akin
+Home:	/ifs/home/jja15
+Groups:	33159(jja15)
+
+User:	jl197
+Uid:	29619
+Gid:	29619(jl197)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-60238
+Shell:	/bin/sh
+Home:	/ifs/home/jl197
+Groups:	29619(jl197), 1029619(jlohr)
+
+User:	jl400
+Uid:	30304
+Gid:	30304(jl400)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-61608
+Shell:	/bin/sh
+Home:	/ifs/home/jl400
+Groups:	30304(jl400), 1200(cb)
+
+User:	jm969
+Uid:	22887
+Gid:	22887(jm969)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-46774
+Shell:	/bin/sh
+Gecos:	Jarrod Marto
+Home:	/ifs/home/jm969
+Groups:	22887(jm969), 1009(martolab)
+
+User:	jpj1
+Uid:	1023
+Gid:	25278(jpj1)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3046
+Shell:	/bin/bash
+Gecos:	Jyothi Priya Jagannathan (aklab)
+Home:	/ifs/home/jpj1
+Groups:	25278(jpj1), 24650(aklab)
+
+User:	jr246
+Uid:	41619
+Gid:	41619(jr246)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-84238
+Shell:	/bin/bash
+Gecos:	Jaime_Reyes
+Home:	/ifs/home/jr246
+Groups:	41619(jr246), 119545(bradnerlab)
+
+User:	jt536
+Uid:	71811
+Gid:	71811(jt536)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-144622
+Shell:	/bin/bash
+Gecos:	Jernej_Turnsek
+Home:	/ifs/home/jt536
+Groups:	71811(jt536), 63729(glab)
+
+User:	jtest006
+Uid:	35537
+Gid:	35537(jtest006)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-72074
+Shell:	/bin/bash
+Gecos:	Test_User
+Home:	/ifs/home/jtest006
+Groups:	35537(jtest006)
+
+User:	jtest008
+Uid:	35538
+Gid:	35538(jtest008)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-72076
+Shell:	/bin/bash
+Gecos:	Test_User
+Home:	/ifs/home/jtest008
+Groups:	35538(jtest008)
+
+User:	jtest009
+Uid:	35539
+Gid:	35539(jtest009)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-72078
+Shell:	/bin/bash
+Gecos:	Test_User
+Home:	/ifs/home/jtest009
+Groups:	35539(jtest009), 58723(cnlab)
+
+User:	jtw16
+Uid:	33287
+Gid:	33287(jtw16)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-67574
+Shell:	/bin/sh
+Gecos:	James Webber
+Home:	/ifs/home/jtw16
+Groups:	33287(jtw16), 1009(martolab)
+
+User:	jw151
+Uid:	29838
+Gid:	29838(jw151)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-60676
+Shell:	/bin/bash
+Gecos:	Jennifer_Wu
+Home:	/ifs/home/jw151
+Groups:	29838(jw151)
+
+User:	jw504
+Uid:	36026
+Gid:	36026(jw504)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-73052
+Shell:	/bin/sh
+Gecos:	Juan Wang
+Home:	/ifs/home/jw504
+Groups:	36026(jw504), 24650(aklab)
+
+User:	jy875
+Uid:	37535
+Gid:	37535(jy875)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-76070
+Shell:	/bin/bash
+Gecos:	Juok_Cho
+Home:	/ifs/home/jy875
+Groups:	37535(jy875), 1006(belfer)
+
+User:	jz082
+Uid:	18543
+Gid:	18543(jz082)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-38086
+Shell:	/bin/sh
+Gecos:	John Zhang
+Home:	/ifs/home/jz082
+Groups:	18543(jz082), 1006(belfer)
+
+User:	jz545
+Uid:	34276
+Gid:	34276(jz545)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-69552
+Shell:	/bin/bash
+Gecos:	Zhao,Jianjun
+Home:	/ifs/home/jz545
+Groups:	34276(jz545)
+
+User:	kb686
+Uid:	27579
+Gid:	27579(kb686)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-56158
+Shell:	/bin/bash
+Gecos:	Kathleen_Yates
+Home:	/ifs/home/kb686
+Groups:	27579(kb686), 63730(pedonc)
+
+User:	kg763
+Uid:	34866
+Gid:	34866(kg763)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-70732
+Shell:	/bin/bash
+Gecos:	Kim_Glass
+Home:	/ifs/home/kg763
+Groups:	34866(kg763), 63727(bcb), 63726(ase)
+
+User:	kj910
+Uid:	36999
+Gid:	36999(kj910)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-74998
+Shell:	/bin/bash
+Gecos:	Kristen Jones (aklab)
+Home:	/ifs/home/kj910
+Groups:	36999(kj910), 24650(aklab)
+
+User:	kkw9
+Uid:	34891
+Gid:	34891(kkw9)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-70782
+Shell:	/bin/sh
+Gecos:	Kin Wong
+Home:	/ifs/home/kkw9
+Groups:	34891(kkw9), 33923(akdirect), 24650(aklab)
+
+User:	kn839
+Uid:	40090
+Gid:	40090(kn839)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-81180
+Shell:	/bin/bash
+Gecos:	Kshithija_Nagulapalli
+Home:	/ifs/home/kn839
+Groups:	40090(kn839), 1111(cccb)
+
+User:	ks40
+Uid:	15482
+Gid:	15482(PO_Stegmaier)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-31964
+Shell:	/bin/bash
+Gecos:	Kimberly_Stegmaier
+Home:	/ifs/home/ks40
+Groups:	15482(PO_Stegmaier)
+
+User:	kz945
+Uid:	1015
+Gid:	38831(kz945)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3030
+Shell:	/bin/bash
+Gecos:	Keisha McCall (aklab)
+Home:	/ifs/home/kz945
+Groups:	38831(kz945), 24650(aklab)
+
+User:	lb089
+Uid:	15393
+Gid:	15393(lb089)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-31786
+Shell:	/bin/bash
+Gecos:	Leutz_Buon
+Home:	/ifs/home/lb089
+Groups:	15393(lb089)
+
+User:	lcm25
+Uid:	35080
+Gid:	35080(lcm25)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-71160
+Shell:	/bin/bash
+Gecos:	Lillian_Zwemer
+Home:	/ifs/home/lcm25
+Groups:	35080(lcm25), 63726(ase)
+
+User:	lg576
+Uid:	1031
+Gid:	43745(lg576)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3062
+Shell:	/bin/bash
+Gecos:	Leslie Grimmet (macf)
+Home:	/ifs/home/lg576
+Groups:	43745(lg576), 32291(macf)
+
+User:	lh761
+Uid:	36148
+Gid:	36148(lh761)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-73296
+Shell:	/bin/bash
+Gecos:	Lan_hu
+Home:	/ifs/home/lh761
+Groups:	36148(lh761), 1111(cccb)
+
+User:	ll596
+Uid:	42288
+Gid:	42288(ll596)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-85576
+Shell:	/bin/sh
+Home:	/ifs/home/ll596
+Groups:	42288(ll596), 50007(cfce)
+
+User:	lp698
+Uid:	30458
+Gid:	30458(lp698)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-61916
+Shell:	/bin/sh
+Home:	/ifs/home/lp698
+Groups:	30458(lp698), 63727(bcb), 63726(ase)
+
+User:	lpc23
+Uid:	71803
+Gid:	71803(lpc23)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-144606
+Shell:	/bin/bash
+Gecos:	Lawrence_Chung
+Home:	/ifs/home/lpc23
+Groups:	71803(lpc23), 63731(profile)
+
+User:	lq5
+Uid:	1024
+Gid:	37807(lq5)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3048
+Shell:	/bin/bash
+Gecos:	Lei Qin (aklab)
+Home:	/ifs/home/lq5
+Groups:	37807(lq5), 24650(aklab)
+
+User:	ls926
+Uid:	1022
+Gid:	21761(ls926)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3044
+Shell:	/bin/bash
+Gecos:	Leonid Syrkin (aklab)
+Home:	/ifs/home/ls926
+Groups:	21761(ls926), 24650(aklab)
+
+User:	lt749
+Uid:	43505
+Gid:	43505(lt749)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-88010
+Shell:	/bin/sh
+Home:	/ifs/home/lt749
+Groups:	43505(lt749)
+
+User:	lt883
+Uid:	32963
+Gid:	32963(lt883)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-66926
+Shell:	/bin/bash
+Gecos:	Len_Taing
+Home:	/ifs/home/lt883
+Groups:	32963(lt883)
+
+User:	ma719
+Uid:	25915
+Gid:	25915(ma719)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-52830
+Shell:	/bin/sh
+Gecos:	Manor Askenazi
+Home:	/ifs/home/ma719
+Groups:	25915(ma719), 1009(martolab)
+
+User:	macftech
+Uid:	88441
+Gid:	32291(macf)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-177882
+Shell:	/bin/sh
+Home:	/ifs/home/macftech
+Groups:	32291(macf)
+
+User:	man29
+Uid:	40975
+Gid:	40975(man29)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-82950
+Shell:	/bin/bash
+Gecos:	Mohamad_Ali_Najia
+Home:	/ifs/home/man29
+Groups:	40975(man29), 63729(glab)
+
+User:	mb368
+Uid:	39395
+Gid:	39395(mb368)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-79790
+Shell:	/bin/bash
+Gecos:	Marc_Breneiser
+Home:	/ifs/home/mb368
+Groups:	39395(mb368)
+
+User:	mbcf
+Uid:	1002
+Gid:	1011(mbcf)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3004
+Shell:	/bin/bash
+Gecos:	Zach Hebert (mbcf)
+Home:	/ifs/home/mbcf
+Groups:	1011(mbcf), 32291(macf)
+
+User:	mberkeley
+Uid:	19555
+Gid:	19555(mberkeley)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-40110
+Shell:	/bin/sh
+Home:	/ifs/home/mberkeley
+Groups:	19555(mberkeley), 32291(macf)
+
+User:	md192
+Uid:	1011
+Gid:	38733(md192)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3022
+Shell:	/bin/sh
+Gecos:	 Matthew C. Dunn (aklab)
+Home:	/ifs/home/md192
+Groups:	38733(md192), 24650(aklab), 1013(akmri_users), 1016(lfic), 1014(nklab), 1015(kwlab)
+
+User:	md299
+Uid:	35470
+Gid:	35470(md299)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-71940
+Shell:	/bin/sh
+Gecos:	Matt Ducar
+Home:	/ifs/home/md299
+Groups:	35470(md299), 1005(ccgd), 63731(profile), 1012(secwriter)
+
+User:	mht4
+Uid:	1001
+Gid:	16520(mht4)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3002
+Shell:	/bin/sh
+Gecos:	Matt Temple
+Home:	/ifs/home/mht4
+Groups:	16520(mht4), 1005(ccgd), 24650(aklab), 1012(secwriter)
+
+User:	mkw17
+Uid:	1034
+Gid:	44346(mkw17)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3068
+Shell:	/bin/bash
+Gecos:	Margaret Wilkens (aklab)
+Home:	/ifs/home/mkw17
+Groups:	44346(mkw17), 24650(aklab)
+
+User:	mm638
+Uid:	1003
+Gid:	15030(mm638)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3006
+Shell:	/bin/bash
+Gecos:	Melissa McCagg (aklab)
+Home:	/ifs/home/mm638
+Groups:	15030(mm638), 24650(aklab)
+
+User:	mt628
+Uid:	35045
+Gid:	35045(mt628)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-71090
+Shell:	/bin/sh
+Home:	/ifs/home/mt628
+Groups:	35045(mt628), 1200(cb)
+
+User:	mym97
+Uid:	39122
+Gid:	39122(mym97)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-79244
+Shell:	/bin/bash
+Gecos:	Mark_Murakami
+Home:	/ifs/home/mym97
+Groups:	39122(mym97)
+
+User:	mysql
+Uid:	27
+Gid:	27(mysql)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-1054
+Shell:	/bin/sh
+Home:	/ifs/home/mysql
+Groups:	27(mysql)
+
+User:	nek5
+Uid:	1004
+Gid:	36002(nek5)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3008
+Shell:	/bin/bash
+Gecos:	Nancy Kohl (nklab,akmri_users)
+Home:	/ifs/home/nek5
+Groups:	36002(nek5), 1014(nklab), 1013(akmri_users), 24650(aklab), 33923(akdirect)
+
+User:	nko1
+Uid:	43066
+Gid:	43066(nko1)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-87132
+Shell:	/bin/bash
+Gecos:	ONeill,Nicholas
+Home:	/ifs/home/nko1
+Groups:	43066(nko1)
+
+User:	nr822
+Uid:	40481
+Gid:	40481(nr822)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-81962
+Shell:	/bin/bash
+Gecos:	Naim_Rashid
+Home:	/ifs/home/nr822
+Groups:	40481(nr822)
+
+User:	pg794
+Uid:	40450
+Gid:	40450(pg794)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-81900
+Shell:	/bin/sh
+Home:	/ifs/home/pg794
+Groups:	40450(pg794)
+
+User:	pg802
+Uid:	59847
+Gid:	59847(pg802)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-120694
+Shell:	/bin/bash
+Gecos:	Peter_Grauman
+Home:	/ifs/home/pg802
+Groups:	59847(pg802), 63730(pedonc), 88442(ebertlab)
+
+User:	pg821
+Uid:	1020
+Gid:	37510(pg821)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3040
+Shell:	/bin/bash
+Gecos:	Prafulla Gokhale (aklab)
+Home:	/ifs/home/pg821
+Groups:	37510(pg821), 24650(aklab)
+
+User:	pg837
+Uid:	1009
+Gid:	35777(pg837)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3018
+Shell:	/bin/bash
+Gecos:	Peng Gao (kwlab, akmri_users)
+Home:	/ifs/home/pg837
+Groups:	35777(pg837), 1015(kwlab), 1013(akmri_users)
+
+User:	pj961
+Uid:	40983
+Gid:	40983(pj961)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-82966
+Shell:	/bin/sh
+Home:	/ifs/home/pj961
+Groups:	40983(pj961)
+
+User:	pk864
+Uid:	37210
+Gid:	37210(pk864)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-75420
+Shell:	/bin/bash
+Gecos:	Prateek_Kumar
+Home:	/ifs/home/pk864
+Groups:	37210(pk864), 1005(ccgd)
+
+User:	pkd7
+Uid:	90927
+Gid:	90927(pkd7)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-182854
+Shell:	/bin/bash
+Gecos:	Phani_Davineni
+Home:	/ifs/home/pkd7
+Groups:	90927(pkd7), 63731(profile)
+
+User:	pl895
+Uid:	36707
+Gid:	36707(pl895)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-74414
+Shell:	/bin/bash
+Gecos:	Ping_Lu
+Home:	/ifs/home/pl895
+Groups:	36707(pl895)
+
+User:	pp056
+Uid:	11903
+Gid:	11903(pp056)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-24806
+Shell:	/bin/bash
+Gecos:	Pere_Puigserver
+Home:	/ifs/home/pp056
+Groups:	11903(pp056), 1200(cb)
+
+User:	profile
+Uid:	63731
+Gid:	63731(profile)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-128462
+Shell:	/bin/sh
+Home:	/ifs/home/profile
+Groups:	63731(profile)
+
+User:	profilerd
+Uid:	1013
+Gid:	63201(profilerd)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3026
+Shell:	/bin/bash
+Gecos:	Readonly Profile Data
+Home:	/ifs/home/profilerd
+Groups:	63201(profilerd)
+
+User:	profileseq
+Uid:	63200
+Gid:	63200(profileseq)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-127400
+Shell:	/bin/bash
+Gecos:	Profile_Seq
+Home:	/ifs/home/profileseq
+Groups:	63200(profileseq), 63731(profile)
+
+User:	ps694
+Uid:	71802
+Gid:	71802(ps694)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-144604
+Shell:	/bin/bash
+Gecos:	Priyanka_Shivdasani
+Home:	/ifs/home/ps694
+Groups:	71802(ps694), 63731(profile)
+
+User:	psh8
+Uid:	29622
+Gid:	29622(psh8)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-60244
+Shell:	/bin/bash
+Gecos:	Peter_Hammerman
+Home:	/ifs/home/psh8
+Groups:	29622(psh8)
+
+User:	psm15
+Uid:	71001
+Gid:	71001(psm15)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-143002
+Shell:	/bin/bash
+Gecos:	hgcc_dba
+Home:	/ifs/home/psm15
+Groups:	71001(psm15), 1006(belfer)
+
+User:	ptk6
+Uid:	1019
+Gid:	39790(ptk6)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3038
+Shell:	/bin/bash
+Gecos:	Paul Kirschmeier (aklab)
+Home:	/ifs/home/ptk6
+Groups:	39790(ptk6), 24650(aklab)
+
+User:	qdn
+Uid:	1029
+Gid:	42927(qdn)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3058
+Shell:	/bin/bash
+Gecos:	Quang-De Nguyen (aklab)
+Home:	/ifs/home/qdn
+Groups:	42927(qdn), 24650(aklab), 33923(akdirect), 1013(akmri_users)
+
+User:	ql030
+Uid:	34901
+Gid:	34901(ql030)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-70802
+Shell:	/bin/sh
+Home:	/ifs/home/ql030
+Groups:	34901(ql030), 1014611(mfreedman)
+
+User:	ql045
+Uid:	1012
+Gid:	40265(ql045)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3024
+Shell:	/bin/bash
+Gecos:	Qi Li (aklab)
+Home:	/ifs/home/ql045
+Groups:	40265(ql045), 24650(aklab)
+
+User:	qq06
+Uid:	41914
+Gid:	41914(qq06)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-84828
+Shell:	/bin/bash
+Gecos:	Qian_Qin
+Home:	/ifs/home/qq06
+Groups:	41914(qq06)
+
+User:	ra829
+Uid:	36582
+Gid:	36582(ra829)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-74164
+Shell:	/bin/bash
+Gecos:	Ravali_Adusumilli
+Home:	/ifs/home/ra829
+Groups:	36582(ra829), 1005(ccgd)
+
+User:	rcadmin
+Uid:	1000
+Gid:	10(admin)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3000
+Shell:	/bin/bash
+Gecos:	RC Admin Account
+Home:	/ifs/home/rcadmin
+Groups:	10(admin), 10000(Administrators), 24650(aklab), 1013(akmri_users), 63731(profile), 0(wheel), 20(staff), 70(ifs)
+
+User:	rjm69
+Uid:	1025
+Gid:	41728(rjm69)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3050
+Shell:	/bin/bash
+Gecos:	Rebecca Modiste (aklab)
+Home:	/ifs/home/rjm69
+Groups:	41728(rjm69), 24650(aklab)
+
+User:	rl75
+Uid:	35199
+Gid:	35199(rl75)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-71398
+Shell:	/bin/bash
+Gecos:	Coleman_Lindsley
+Home:	/ifs/home/rl75
+Groups:	35199(rl75), 88442(ebertlab)
+
+User:	rpa4
+Uid:	40979
+Gid:	40979(rpa4)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-82958
+Shell:	/bin/bash
+Gecos:	Ryan_Abo
+Home:	/ifs/home/rpa4
+Groups:	40979(rpa4), 1005(ccgd)
+
+User:	rz042
+Uid:	34448
+Gid:	34448(rz042)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-69896
+Shell:	/bin/bash
+Gecos:	Rhamy_Zeid
+Home:	/ifs/home/rz042
+Groups:	34448(rz042), 119545(bradnerlab)
+
+User:	rz043
+Uid:	34971
+Gid:	34971(rz043)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-70942
+Shell:	/bin/sh
+Home:	/ifs/home/rz043
+Groups:	34971(rz043)
+
+User:	sa781
+Uid:	26628
+Gid:	26628(sa781)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-54256
+Shell:	/bin/sh
+Home:	/ifs/home/sa781
+Groups:	26628(sa781)
+
+User:	salekseev
+Uid:	27381
+Gid:	27381(salekseev)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-55762
+Shell:	/bin/bash
+Gecos:	Stanislav Alekseev
+Home:	/ifs/home/salekseev
+Groups:	27381(salekseev), 1111(cccb)
+
+User:	sb967
+Uid:	28943
+Gid:	28943(sb967)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-58886
+Shell:	/bin/sh
+Home:	/ifs/home/sb967
+Groups:	28943(sb967), 1200(cb)
+
+User:	sbf8
+Uid:	26931
+Gid:	26931(sbf8)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-54862
+Shell:	/bin/bash
+Gecos:	Scott Ficarro (martolab)
+Home:	/ifs/home/sbf8
+Groups:	26931(sbf8), 1009(martolab)
+
+User:	sbsuser
+Uid:	190000
+Gid:	1111(cccb)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-381000
+Shell:	/sbin/nologin
+Gecos:	Illumina Virtual User
+Home:	/ifs/home/sbsuser
+Groups:	1111(cccb)
+
+User:	sh197
+Uid:	34068
+Gid:	34068(sh197)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-69136
+Shell:	/bin/bash
+Gecos:	Sujun_Hua
+Home:	/ifs/home/sh197
+Groups:	34068(sh197), 1006(belfer)
+
+User:	sn753
+Uid:	44219
+Gid:	44219(sn753)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-89438
+Shell:	/bin/sh
+Home:	/ifs/home/sn753
+Groups:	44219(sn753), 50007(cfce)
+
+User:	sp424
+Uid:	1021
+Gid:	39922(sp424)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3042
+Shell:	/bin/bash
+Gecos:	Sangeetha Palakurthi (aklab)
+Home:	/ifs/home/sp424
+Groups:	39922(sp424), 24650(aklab)
+
+User:	sp605
+Uid:	33933
+Gid:	33933(sp605)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-68866
+Shell:	/bin/bash
+Gecos:	Saumyadipta_Pyne
+Home:	/ifs/home/sp605
+Groups:	33933(sp605), 1006(belfer)
+
+User:	ss846
+Uid:	30291
+Gid:	30291(ss846)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-61582
+Shell:	/bin/bash
+Gecos:	Sachet_Shukla
+Home:	/ifs/home/ss846
+Groups:	30291(ss846), 1006(belfer)
+
+User:	ssh31
+Uid:	43833
+Gid:	43833(ssh31)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-88666
+Shell:	/bin/bash
+Gecos:	Hunter,Samuel
+Home:	/ifs/home/ssh31
+Groups:	43833(ssh31), 1005(ccgd)
+
+User:	sv907
+Uid:	40757
+Gid:	40757(sv907)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-82514
+Shell:	/bin/bash
+Gecos:	Sebastien_Vigneau
+Home:	/ifs/home/sv907
+Groups:	40757(sv907), 63729(glab), 63726(ase)
+
+User:	sverselis
+Uid:	10058
+Gid:	10058(sverselis)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-21116
+Shell:	/bin/bash
+Gecos:	Sigitas Verselis (macf)
+Home:	/ifs/labs/macf/home/sverselis
+Groups:	10058(sverselis), 32291(macf)
+
+User:	sw598
+Uid:	39400
+Gid:	39400(sw598)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-79800
+Shell:	/bin/bash
+Gecos:	Su_Wang
+Home:	/ifs/home/sw598
+Groups:	39400(sw598), 63728(ccsb)
+
+User:	sx016
+Uid:	32386
+Gid:	32386(sx016)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-65772
+Shell:	/bin/bash
+Gecos:	Xie,Shaozhen
+Home:	/ifs/home/sx016
+Groups:	32386(sx016)
+
+User:	sz205
+Uid:	41890
+Gid:	41890(sz205)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-84780
+Shell:	/bin/bash
+Gecos:	Shenglin_Mei
+Home:	/ifs/home/sz205
+Groups:	41890(sz205)
+
+User:	sz358
+Uid:	71901
+Gid:	71901(sz358)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-144802
+Shell:	/bin/bash
+Gecos:	Sarah_Shareef
+Home:	/ifs/home/sz358
+Groups:	71901(sz358), 63730(pedonc)
+
+User:	sz787
+Uid:	37574
+Gid:	37574(sz787)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-76148
+Shell:	/bin/bash
+Gecos:	Sahil_Seth
+Home:	/ifs/home/sz787
+Groups:	37574(sz787), 1006(belfer)
+
+User:	test
+Uid:	40000
+Gid:	40000(test)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-81000
+Shell:	/bin/bash
+Gecos:	Test User
+Home:	/ifs/home/test
+Groups:	40000(test)
+
+User:	th884
+Uid:	32291
+Gid:	32291(macf)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-65582
+Shell:	/bin/sh
+Home:	/ifs/home/th884
+Groups:	32291(macf)
+
+User:	tl916
+Uid:	28704
+Gid:	28704(tl916)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-58408
+Shell:	/bin/bash
+Gecos:	Tao_Liu
+Home:	/ifs/home/tl916
+Groups:	28704(tl916), 63728(ccsb)
+
+User:	tp908
+Uid:	34747
+Gid:	34747(tp908)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-70494
+Shell:	/bin/bash
+Gecos:	Trevor_Pugh
+Home:	/ifs/home/tp908
+Groups:	34747(tp908), 63731(profile)
+
+User:	tsullivan
+Uid:	36355
+Gid:	36355(tsullivan)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-73710
+Shell:	/bin/bash
+Gecos:	Timothy Sullivan (macf)
+Home:	/ifs/labs/macf/home/tsullivan
+Groups:	36355(tsullivan), 32291(macf)
+
+User:	tt884
+Uid:	29612
+Gid:	29612(tt884)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-60224
+Shell:	/bin/sh
+Gecos:	Tanya Tupper
+Home:	/ifs/home/tt884
+Groups:	29612(tt884), 24650(aklab)
+
+User:	umv
+Uid:	43136
+Gid:	43136(umv)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-87272
+Shell:	/bin/bash
+Gecos:	UmaM_Vangala
+Home:	/ifs/home/umv
+Groups:	43136(umv), 1011(mbcf)
+
+User:	vapi
+Uid:	16
+Gid:	16(vapi)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-1032
+Shell:	/sbin/nologin
+Gecos:	Isilon For vCenter  User
+Home:	/nonexistent
+Groups:	16(vapi)
+
+User:	vidallab
+Uid:	49901
+Gid:	49901(vidallab)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-100802
+Shell:	/bin/bash
+Gecos:	vidal_ccsb
+Home:	/ifs/home/vidallab
+Groups:	49901(vidallab), 63728(ccsb)
+
+User:	vm928
+Uid:	33921
+Gid:	33921(vm928)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-68842
+Shell:	/bin/sh
+Gecos:	Valeria Monrose
+Home:	/ifs/home/vm928
+Groups:	33921(vm928), 24650(aklab)
+
+User:	vs923
+Uid:	36336
+Gid:	36336(vs923)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-73672
+Shell:	/bin/bash
+Gecos:	Virginia_Savova
+Home:	/ifs/home/vs923
+Groups:	36336(vs923), 63729(glab), 63726(ase)
+
+User:	vvv8
+Uid:	44306
+Gid:	44306(vvv8)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-89612
+Shell:	/bin/sh
+Home:	/ifs/home/vvv8
+Groups:	44306(vvv8)
+
+User:	wl948
+Uid:	39516
+Gid:	39516(wl948)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-80032
+Shell:	/bin/sh
+Home:	/ifs/home/wl948
+Groups:	39516(wl948), 63728(ccsb)
+
+User:	xg015
+Uid:	71804
+Gid:	71804(xg015)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-144608
+Shell:	/bin/bash
+Gecos:	Xin_Gong
+Home:	/ifs/home/xg015
+Groups:	71804(xg015), 63731(profile)
+
+User:	xw045
+Uid:	37729
+Gid:	37729(xw045)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-76458
+Shell:	/bin/bash
+Gecos:	Xiaofeng_Wang
+Home:	/ifs/home/xw045
+Groups:	37729(xw045), 63730(pedonc)
+
+User:	yc979
+Uid:	33362
+Gid:	33362(yc979)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-67724
+Shell:	/bin/bash
+Gecos:	Yiwen_Chen
+Home:	/ifs/home/yc979
+Groups:	33362(yc979), 63728(ccsb)
+
+User:	yew1
+Uid:	34192
+Gid:	34192(yew1)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-69384
+Shell:	/bin/sh
+Home:	/ifs/home/yew1
+Groups:	34192(yew1), 1111(cccb)
+
+User:	yj049
+Uid:	71806
+Gid:	71806(yj049)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-144612
+Shell:	/bin/bash
+Gecos:	Yonghui_Jia
+Home:	/ifs/home/yj049
+Groups:	71806(yj049), 63731(profile)
+
+User:	yk025
+Uid:	1018
+Gid:	18713(yk025)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3036
+Shell:	/bin/bash
+Gecos:	Yuji Kuzuhara (aklab)
+Home:	/ifs/home/yk025
+Groups:	18713(yk025), 24650(aklab)
+
+User:	yk941
+Uid:	43680
+Gid:	43680(yk941)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-88360
+Shell:	/bin/bash
+Gecos:	Kang,Yue
+Home:	/ifs/home/yk941
+Groups:	43680(yk941)
+
+User:	yl858
+Uid:	40669
+Gid:	40669(yl858)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-82338
+Shell:	/bin/bash
+Gecos:	Li_Yiyuan
+Home:	/ifs/home/yl858
+Groups:	40669(yl858)
+
+User:	yl895
+Uid:	38816
+Gid:	38816(yl895)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-78632
+Shell:	/bin/bash
+Gecos:	Liu_Yin
+Home:	/ifs/home/yl895
+Groups:	38816(yl895)
+
+User:	yl940
+Uid:	1010
+Gid:	34221(yl940)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-3020
+Shell:	/bin/bash
+Gecos:	Yan Liu (kwlab, akmri_users)
+Home:	/ifs/home/yl940
+Groups:	34221(yl940), 1013(akmri_users), 1015(kwlab)
+
+User:	yl970
+Uid:	29269
+Gid:	29269(yl970)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-59538
+Shell:	/bin/sh
+Home:	/ifs/home/yl970
+Groups:	29269(yl970), 1200(cb)
+
+User:	yl974
+Uid:	29007
+Gid:	29007(yl974)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-59014
+Shell:	/bin/sh
+Home:	/ifs/home/yl974
+Groups:	29007(yl974), 1006(belfer)
+
+User:	ys11
+Uid:	35128
+Gid:	35128(ys11)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-71256
+Shell:	/bin/sh
+Gecos:	Yanping Sun
+Home:	/ifs/home/ys11
+Groups:	35128(ys11), 24650(aklab), 1012(secwriter), 1013(akmri_users)
+
+User:	yshao
+Uid:	32563
+Gid:	32563(yshao)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-66126
+Shell:	/bin/bash
+Gecos:	Yue Shao (macf)
+Home:	/ifs/labs/macf/home/yshao
+Groups:	32563(yshao), 32291(macf)
+
+User:	yw071
+Uid:	32524
+Gid:	32524(yw071)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-66048
+Shell:	/bin/sh
+Gecos:	Yuchuan Wang
+Home:	/ifs/home/yw071
+Groups:	32524(yw071), 24650(aklab)
+
+User:	yx019
+Uid:	34057
+Gid:	34057(yx019)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-69114
+Shell:	/bin/sh
+Home:	/ifs/home/yx019
+Groups:	34057(yx019), 1006(belfer)
+
+User:	zrh0
+Uid:	21278
+Gid:	21278(zrh0)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-43556
+Shell:	/bin/sh
+Gecos:	Zachary Hunter
+Home:	/ifs/home/zrh0
+Groups:	21278(zrh0), 1008(treonlab), 1007(treonadmin)
+
+User:	zth1
+Uid:	22632
+Gid:	22632(zth1)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-46264
+Shell:	/bin/bash
+Gecos:	Zach_Herbert
+Home:	/ifs/home/zth1
+Groups:	22632(zth1), 1011(mbcf)
+
+User:	root*
+Uid:	0
+Gid:	0(wheel)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-1000
+Shell:	/usr/local/bin/zsh
+Gecos:	Root
+Home:	/root
+Groups:	0(wheel), 10000(Administrators), 5(operator), 20(staff), 70(ifs), 10(admin)
+
+User:	admin*
+Uid:	10
+Gid:	10(admin)
+Sid:	S-1-5-21-4029597361-2586437353-3644228439-1020
+Shell:	/sbin/nologin
+Gecos:	Isilon UI Administrator
+Home:	/ifs/home/admin
+Groups:	10(admin)
+
